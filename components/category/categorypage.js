@@ -66,9 +66,9 @@ function createNavbar(links) {
 
 // Array of links for the navbar
 const links = [
-  { text: "Daily Trends", url: "/components/category/categorypage.html?category=dailytrends" },
-  { text: "Development Tools", url: "/components/category/categorypage.html?category=developmenttools" },
-  { text: "Tutorials", url: "/components/category/categorypage.html?category=tutorails" }
+  { text: "Daily Trends", url: "../../components/category/categorypage.html?category=dailytrends" },
+  { text: "Development Tools", url: "../../components/category/categorypage.html?category=developmenttools" },
+  { text: "Tutorials", url: "../../components/category/categorypage.html?category=tutorails" }
 ];
 
 // Call the function with the array of links
